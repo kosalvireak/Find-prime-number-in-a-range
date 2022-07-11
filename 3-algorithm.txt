@@ -1,0 +1,6 @@
+1.  create a list
+2.  create a new blank list
+3.  find minimum value of the list
+4.  append minimum into new list
+5.  delete minimum frmo old list
+6.  go to step 3
