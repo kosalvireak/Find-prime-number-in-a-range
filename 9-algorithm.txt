@@ -1,0 +1,11 @@
+Given an array arr[] of n elements, 
+write a Python function to search a given element x in arr[].
+
+1. Create an array with some of elements alphabets inside
+2. prom user to enter a alphabet
+3. pass parameter of user_input to function
+--inside function
+4. go to element 1by1
+5. if arr[i] == user_input
+6. raise the true and show element's location
+
