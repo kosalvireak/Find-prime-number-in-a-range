@@ -1,0 +1,12 @@
+input   5642
+output  2456
+5642%10 = 2
+564%10  = 4
+56%10   = 6
+5%10    = 5
+result 2465
+1. get remainder 
+2. take number find remainder after divide by 10
+3. store the remainder at new variable
+4. old number // 10 thus we can remove the smallest number
+go to 2.

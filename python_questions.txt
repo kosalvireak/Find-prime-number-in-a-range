@@ -13,3 +13,4 @@
 13.  Write a Python program to extract digits from given string
 14.  Write a Python program to split strings using newline delimiter
 15.  Given a string as your input, delete any reoccurring character, and return the new string.
+16. Python program to reverse a integer number
