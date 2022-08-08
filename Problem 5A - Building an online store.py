@@ -30,20 +30,23 @@ bottle = online_store["bottle"]
 # NumOfBottle = int(input("Enter number of bottle: "))
 NumOfKey = 12
 NumOfShirt = 13
-NumOfBottle =2
-print("You have purchase "+str(NumOfKey)+" keychain, "+str(NumOfShirt)+" t-shirt, "+str(NumOfBottle)+" water bottle")
+NumOfBottle = 2
+print("You have purchase "+str(NumOfKey)+" keychain, " +
+      str(NumOfShirt)+" t-shirt, "+str(NumOfBottle)+" water bottle")
 # if purchase more than 10 decrease price by 10%
 # me = online_store["bottle"] = 2
 # print(online_store["bottle"])
 
-def function (key,keyname):
+
+def function(key, keyname):
     name = "new" + str(key)
     if key > 10:
         name = keyname*0.9
     else:
         name = keyname
-    print( name)
+    print(name)
 
-function(NumOfKey,keychain)
-function(NumOfShirt,t_shirt)
-function(NumOfBottle,bottle)
+
+function(NumOfKey, keychain)
+function(NumOfShirt, t_shirt)
+function(NumOfBottle, bottle)
