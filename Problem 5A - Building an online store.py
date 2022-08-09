@@ -44,7 +44,7 @@ def function(key, keyname):
         name = keyname*0.9
     else:
         name = keyname
-    print(name)
+    print("New price of " + str(key) + " is: "+str(name))
 
 
 function(NumOfKey, keychain)
