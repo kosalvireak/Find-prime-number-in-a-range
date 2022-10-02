@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-<head>
     <div id="header" align="center">
         <div id="badges">
 
@@ -28,6 +25,3 @@
             </a>
         </div>
     </div>
-</head>
-
-</html>
